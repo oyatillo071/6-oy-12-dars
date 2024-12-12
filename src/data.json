@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "title": "Cheeseburger",
+    "price": 5.99,
+    "description": "Juicy beef patty with melted cheese, lettuce, tomato, and pickles on a sesame bun.",
+    "image": "https://avatars.mds.yandex.net/get-znatoki/1540166/2a0000017d6fe8a0c3021895263944403b89/orig"
+  },
+  {
+    "id": 2,
+    "title": "Pepperoni Pizza",
+    "price": 8.99,
+    "description": "Classic pizza topped with pepperoni, mozzarella cheese, and tangy tomato sauce.",
+    "image": "https://karfood.ru/wp-content/uploads/2023/02/shutterstock_697347319-1024x683.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Chicken Nuggets",
+    "price": 4.49,
+    "description": "Crispy golden chicken nuggets served with your choice of dipping sauce.",
+    "image": "https://shashlikoff-nn.ru/wp-content/uploads/2023/05/nuggets-chicken-nuggets-with-ketchup-on-wooden-pngzeja.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Veggie Wrap",
+    "price": 6.49,
+    "description": "Fresh vegetables and hummus wrapped in a soft tortilla.",
+    "image": "https://cdn.nur.kz/images/1200x675/188dfa8c5eca34ec.jpeg?version=1"
+  },
+  {
+    "id": 5,
+    "title": "French Fries",
+    "price": 2.99,
+    "description": "Crispy golden fries seasoned with salt.",
+    "image": "https://img.pac.ru/landmarks/470815/big/ECFEF6A07F0001014C9AFDC74D9D8B37.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Fried Chicken",
+    "price": 7.99,
+    "description": "Crispy and juicy fried chicken pieces served with your choice of sides.",
+    "image": "https://avatars.mds.yandex.net/i?id=bdc108df374259fd96eb057d7fcd1816_l-4290022-images-thumbs&n=13"
+  },
+  {
+    "id": 7,
+    "title": "Caesar Salad",
+    "price": 5.99,
+    "description": "Crisp romaine lettuce with Caesar dressing, croutons, and Parmesan cheese.",
+    "image": "https://i.pinimg.com/originals/74/b5/37/74b537ff176dd5f276e53fbc679d98f0.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Bacon Cheeseburger",
+    "price": 6.99,
+    "description": "Juicy beef patty with crispy bacon, melted cheese, lettuce, and tomato on a toasted bun.",
+    "image": "https://www.m24.ru/b/d/nBkSUhL2hFUun8m2Ir6BrNOp2Z318Ji-mifGnuWR9mOBdDebBizCnTY8qdJf6ReJ58vU9meMMok3Ee2nhSR6ISeO9G1N_wjJ=IrAOBOHuijDMLdKLEnmK8w.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Grilled Cheese Sandwich",
+    "price": 3.99,
+    "description": "Classic grilled cheese sandwich with melted cheddar on toasted bread.",
+    "image": "https://i.pinimg.com/originals/76/ba/da/76badab245ea6ed79aa9c71911361b91.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Fish and Chips",
+    "price": 9.99,
+    "description": "Crispy battered fish served with golden fries and tartar sauce.",
+    "image": "https://avatars.mds.yandex.net/i?id=298eb7ac3ca34c0f5e28d1f2a015b083_l-4944757-images-thumbs&n=13"
+  },
+  {
+    "id": 11,
+    "title": "Hot Dog",
+    "price": 3.49,
+    "description": "Classic hot dog topped with ketchup, mustard, and relish.",
+    "image": "https://slkfood.ru/wp-content/uploads/2023/03/%D0%A5%D0%BE%D1%82-%D0%B4%D0%BE%D0%B3-2.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Buffalo Wings",
+    "price": 8.49,
+    "description": "Spicy buffalo chicken wings served with celery and blue cheese dip.",
+    "image": "https://www.kentucky.com/latest-news/gfst6o/picture254386469/alternates/FREE_1140/Buffalo%20wings.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Chocolate Milkshake",
+    "price": 4.99,
+    "description": "Rich and creamy chocolate milkshake topped with whipped cream.",
+    "image": "https://avatars.mds.yandex.net/i?id=fe48db09905821fcad2dc13f5c2076ff_l-5194260-images-thumbs&n=13"
+  },
+  {
+    "id": 14,
+    "title": "Onion Rings",
+    "price": 3.99,
+    "description": "Crispy battered onion rings served with a side of ranch dressing.",
+    "image": "https://imageproxy.wolt.com/menu/menu-images/6437a0f7ea8c8e2cf03d47d6/19314280-dc68-11ed-af27-c2679a1159a9_______________.jpeg"
+  },
+  {
+    "id": 15,
+    "title": "Steak Quesadilla",
+    "price": 7.49,
+    "description": "Grilled tortilla filled with tender steak, melted cheese, and peppers.",
+    "image": "https://i.pinimg.com/originals/bb/71/c0/bb71c0f36fc9f95788b485e51eff7082.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Ice Cream Sundae",
+    "price": 5.49,
+    "description": "Vanilla ice cream topped with chocolate syrup, whipped cream, and a cherry.",
+    "image": "https://i.pinimg.com/736x/ef/30/5b/ef305b75fdcc1fa5febdc78b63b2dcc9.jpg"
+  },
+  {
+    "id": 17,
+    "title": "BLT Sandwich",
+    "price": 6.99,
+    "description": "Bacon, lettuce, and tomato sandwich on toasted bread with mayo.",
+    "image": "https://i.pinimg.com/originals/df/f1/a2/dff1a21a34d8ab57d7724a30671be415.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Taco Salad",
+    "price": 7.99,
+    "description": "Crispy tortilla bowl filled with lettuce, taco beef, cheese, and salsa.",
+    "image": "https://i.pinimg.com/736x/d4/d0/e0/d4d0e045faf0a38ee415ba5ce269e6fa.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Pulled Pork Sandwich",
+    "price": 7.49,
+    "description": "Tender pulled pork in BBQ sauce served on a toasted bun.",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/08/2d/7c/de/what-a-nice-choice.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Chili Cheese Fries",
+    "price": 6.49,
+    "description": "Crispy fries topped with chili, melted cheese, and onions.",
+    "image": "https://i.pinimg.com/736x/00/08/c8/0008c8200bed5f2ba66420e8203763c3.jpg"
+  }
+]
